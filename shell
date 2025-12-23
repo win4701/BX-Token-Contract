@@ -1,0 +1,5 @@
+BX-Token-Contract/
+├── contracts/
+│   └── BXToken.sol
+├── README.md
+└── LICENSE
